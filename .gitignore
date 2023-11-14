@@ -1,0 +1,10 @@
+# Folders
+node_modules/
+temp/
+
+# Files
+.env
+*lock*
+
+# Subfiles
+auth/*.json
