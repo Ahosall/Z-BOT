@@ -2,14 +2,14 @@
 
 A simple and multifunctional bot for WhatsApp!
 
-## Requisitos
+## Requirements
 
-- Node.js (versão 18.x.x)
-- npm (ou um gerenciador de pacotes do Node.js)
+- Node.js (version 18.x.x)
+- npm (or a Node.js package manager)
 
-## Instalação
+## Installation
 
-1. Clone este repositório:
+1. Clone this repository:
 
 ```bash
 git clone https://github.com/Ahosall/Z-BOT.git
@@ -17,8 +17,8 @@ cd Z-BOT
 npm install
 ```
 
-3. Configuração
-   A configuração é simples, crie um arquivo `.env` na raíz do projeto, e adicione as seguintes informações.
+3. Configuration
+   The configuration is simple, create a `.env` file at the root of the project, and add the following information.
 
 ```cs
 # BOT PREFIX
@@ -31,32 +31,32 @@ STK_PACK_NAME=
 STK_PACK_PUBLISHER=
 ```
 
-- O prefixo do bot pode ser definido por você, mas caso não defina, o padrão é `z!`.
-- Caso você coloque o número de telefone, será enviado para você o código de acesso ao WhatsApp por SMS.
-- Sticker:
-  - Pack ID: Url do pacote
-  - Pack Name: Nome do pacote
-  - Pack Publisher: Publicador do pacote
-  - > ⚠ Caso não preencha, será estabelecido um valor padrão. ⚠
-- Uso:
+- The bot prefix can be defined by you, but if not defined, the default is `z!`.
+- If you enter your phone number, the WhatsApp access code will be sent to you via SMS.
+- Stickers:
+  - Pack ID: Package URL
+  - Pack Name: Package name
+  - Pack Publisher: Package publisher
+  - > ⚠ If you do not fill in, a default value will be established. ⚠
+- Usage:
   ```
   npm start
   ```
-  > **Divirta-se!**
+  > **Have fun!**
 
-## Comandos
+## Commands
 
-Utilize o comando `z!ajuda` para consultar todos os comandos do bot.
+Use the `z!ajuda` command to see all the bot's commands.
 
-## Contribuições
+## Contributions
 
-Sinta-se à vontade para contribuir com novos recursos, correções de bugs ou melhorias.
+Feel free to contribute new features, bug fixes or improvements.
 
-## Licença
+## License
 
-Este projeto está licenciado sob a [Licença MIT](./LICENSE).
+This project is licensed under the [MIT License](./LICENSE).
 
 <div align='center'>
-  <hr/>
-  Made with 🤍 by <a href="https://github.com/Ahosall"><b>Ahosall</b></a>!
+   <hr/>
+   Made with 🤍 by <a href="https://github.com/Ahosall"><b>Ahosall</b></a>!
 </div>
